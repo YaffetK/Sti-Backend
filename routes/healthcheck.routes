@@ -14,7 +14,6 @@ try {
     healthcheck.message= e;
     res.status(503) .send();
 }
-
-});
+};
 
 module.exports=router;
