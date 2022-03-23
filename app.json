@@ -1,8 +1,8 @@
 {
     "name": "sti-backend",
-    "description": "Javascript Backend",
-    "repository": "https://github.com/YaffetK/sti-backend.git:",
+    "description": "Javascript backend",
+    "repository": "https://github.com/YaffetK/sti-backend.git",
     "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
     "keywords": ["node", "express", "heroku"],
     "image": "heroku/nodejs"
-}
+  }
